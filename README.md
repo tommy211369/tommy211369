@@ -8,5 +8,5 @@
  
 I'm looking to collaborate with other developers on any project that can help me improve my skills and discover new things !
 
-⏩ ⏩ ⏩ Just want to learn more
+⏩ ⏩ ⏩  Just want to learn more
 
