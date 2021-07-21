@@ -1,6 +1,6 @@
 ### Hello ! 👋 👋
 
- 🚀 On October 2020, I decided to change my career and went into the web development world
+ 🚀 On October 2020, I decided to go into the web development world 
 
  💻 I started with HTML / CSS & JavaScript with very helpful free online courses
  
