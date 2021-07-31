@@ -1,14 +1,14 @@
 # Hello ! 👋 👋
 
- 🚀 On October 2020, I decided to go into the web development world 
+🚀 On October 2020, I decided to go into the web development world 
 
- 💻 I started with HTML / CSS & JavaScript with very helpful free online courses.target='blank'>OpenClassRooms</a>
+💻 I started with HTML / CSS & JavaScript with very helpful free online courses on <a href="https://openclassrooms.com/fr/" target="blank">OpenClassRooms</a>
  
- To get the dev best practises & advices, I decided to join a bootcamp : 10 weeks of intense coding, to become a Fullstack JavaScript Developer and learn how to create an app from A to Z with React Native.
+To get the dev best practises & advices, I decided to join Le Reacteur bootcamp : 10 weeks of intense coding, to become a Fullstack JavaScript Developer and learn how to create an app from A to Z with React Native.
  
 I'm looking to collaborate with other developers on any project that can help me improve my skills and discover new things !
 
-⏩ ⏩ ⏩  Just want to learn more
+⏩ ⏩ ⏩ > Just want to learn more
 
 ## My stack
 
