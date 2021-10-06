@@ -4,7 +4,7 @@
 
 💻 I started with HTML / CSS & JavaScript with very helpful free online courses on <a href="https://openclassrooms.com/fr/" target="blank">OpenClassRooms</a>
  
-To go further and get the dev best practises & advices, I decided to join <a href="https://www.lereacteur.io/" target="blank">Le Reacteur</a> bootcamp : 10 weeks of intense coding, to become a Fullstack JavaScript Developer and learn how to create an app from A to Z with React Native.
+To go further and get the dev best practises & advices, I decided to join <a href="https://www.lereacteur.io/" target="blank">Le Reacteur</a> bootcamp : 10 weeks of intense coding, to become a Fullstack JavaScript Developer and learn how to create a web/mobile app from A to Z with React and React Native.
  
 I'm looking to collaborate with other developers on any project that can help me improve my skills and discover new things !
 
